@@ -1,15 +1,15 @@
 ## Daniel Riccio
 
-Software engineer at [Roo Code](https://roocode.com), working on AI agents and developer tooling. I build across the stack — backend, frontend, and the agent layer in between — with a focus on making agents reliable and genuinely useful.
+Hey, I'm Daniel, a software engineer at Roo Code. I spend most of my time building AI agents, and it's the most fun I've had building software. I work across the whole stack, but the agent layer is my favorite part: figuring out how to make agents that actually reason well, communicate clearly, and hold up in the real world instead of just in a demo.
 
-### What I work on
-- AI agents & agent tooling — MCP servers, prompt design, agent workflows
-- Full-stack development — TypeScript, Node.js, Go, Python
-- Open source — previously contributed to [Roo Code](https://github.com/RooCodeInc/Roo-Code)
+### What I'm into
+- Building AI agents and the tooling around them (MCP servers, prompt design, agent workflows)
+- Full-stack work across TypeScript, Node.js, Go, and Python
+- Open source: I was a contributor to Roo Code
 
-### Selected work
-- **[mcp-perplexity](https://github.com/daniel-lxs/mcp-perplexity)** — MCP server for the Perplexity API
-- **[mcp-starter](https://github.com/daniel-lxs/mcp-starter)** — lightweight Go scaffold for MCP servers
+### A few things I've built
+- **[mcp-perplexity](https://github.com/daniel-lxs/mcp-perplexity)**: an MCP server for the Perplexity API
+- **[mcp-starter](https://github.com/daniel-lxs/mcp-starter)**: a lightweight Go scaffold for spinning up MCP servers
 
 ---
 
