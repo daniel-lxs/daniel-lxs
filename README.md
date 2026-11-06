@@ -7,3 +7,6 @@ Lately I've been working on [Lamp](https://github.com/lampdotdev/Lamp), where yo
 I'm into agents that can use computers, keep track of their work, and hold up outside a demo. A lot of my work is making that reliable, from tool permissions and memory to testing what actually happens on screen.
 
 I also built [lampvm](https://github.com/RooCodeInc/lampvm): isolated macOS VMs for agents to test apps.
+
+![Daniel's GitHub stats](https://daniel-lxs-readme-stats.vercel.app/api?username=daniel-lxs&show_icons=true&hide_border=true&hide_title=true)
+![Top languages](https://daniel-lxs-readme-stats.vercel.app/api/top-langs/?username=daniel-lxs&layout=compact&hide_border=true)
